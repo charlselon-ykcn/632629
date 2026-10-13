@@ -1,0 +1,99 @@
+{
+  "format": "motiongit.discovery/1",
+  "repositoryId": "632629",
+  "templateId": 597,
+  "owner": "curious-atlas",
+  "slug": "knowledge-explainer-isometric",
+  "website": "https://motiongit.com/@curious-atlas/knowledge-explainer-isometric",
+  "checkedAt": "2026-10-13",
+  "availability": "demo-only",
+  "title": {
+    "en": "Isometric System · Technical Explainer",
+    "zh": "等距系统图 · 技术讲解"
+  },
+  "summary": {
+    "en": "Break down systems and processes with isometric diagrams and visible connections.",
+    "zh": "以等距系统图和连接关系拆解复杂流程，适合网络、系统结构与技术原理讲解。"
+  },
+  "subtitle": {
+    "en": "Isometric System · Technical Explainer",
+    "zh": "等距系统图 · 技术讲解"
+  },
+  "category": {
+    "en": "explainer",
+    "zh": "explainer"
+  },
+  "ratio": "16:9",
+  "width": 1920,
+  "height": 1080,
+  "fps": 60,
+  "durationSeconds": 19.614,
+  "demo": {
+    "en": "https://media.openaicut.com/previews/597/draft-en-17ed9e453686.mp4",
+    "zh": "https://motiongit.com/@curious-atlas/knowledge-explainer-isometric?lang=zh",
+    "poster": "https://motiongit.com/media/covers/597/quality-zh-d17d42115ebd.jpg"
+  },
+  "materials": [
+    {
+      "en": "Sourceedits: content items, at most 256 items.",
+      "zh": "Sourceedits：内容，最多 256 项。",
+      "required": true
+    },
+    {
+      "en": "Voiceover: text, up to 240 characters.",
+      "zh": "Voiceover：文字，不超过 240 个字符。",
+      "required": true
+    },
+    {
+      "en": "Duration: number.",
+      "zh": "Duration：数值。",
+      "required": true
+    },
+    {
+      "en": "Map: content items, at least 2 items, at most 1000 items.",
+      "zh": "Map：内容，至少 2 项，最多 1000 项。",
+      "required": true
+    },
+    {
+      "en": "Captions: content items, at most 256 items.",
+      "zh": "Captions：内容，最多 256 项。",
+      "required": true
+    }
+  ],
+  "dependencies": [
+    {
+      "en": "The package declares a Python and Node.js host. Check its dependency lock for supported versions and any additional rendering tools.",
+      "zh": "模板声明使用 Python 和 Node.js。具体工具与版本以下载包为准。"
+    },
+    {
+      "en": "Use the package dependency lock and setup/check instructions. Check existing tools first, install only missing requirements and verify a preview.",
+      "zh": "按下载包的依赖锁和 setup/check 说明检查已有工具，只补齐缺项，并验证预览。"
+    }
+  ],
+  "goodFor": {
+    "en": [
+      "Reuse the existing scene structure, diagram motion, palette and typography with the user's own accurate facts."
+    ],
+    "zh": [
+      "Reuse the existing scene structure, diagram motion, palette and typography with the user's own accurate facts."
+    ]
+  },
+  "boundaries": {
+    "en": [
+      "The documented output is 1920 × 1080, 60 fps; default demo duration is 19.614 seconds.",
+      "Use the actual package parameter bounds; extra materials do not automatically create extra scenes.",
+      "Arbitrary scene rearrangement or new animation engines; the existing scene and NOTES.md remain authoritative."
+    ],
+    "zh": [
+      "已声明输出为 1920 × 1080，60 fps；默认样片 19.614 秒。",
+      "按实际包的参数边界制作；增加素材不会自动增加场景。"
+    ]
+  },
+  "capabilities": [
+    {
+      "en": "Optional services require a live catalog, template slot and account check before they can be confirmed.",
+      "zh": "配套服务需核对官网实时能力、模板槽位和账号权限后才能确认。",
+      "status": "check-live"
+    }
+  ]
+}
