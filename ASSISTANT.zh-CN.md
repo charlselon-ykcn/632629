@@ -1,54 +1,5 @@
-# 引导用户使用模板 632629
+# Template availability changed
 
-本仓库是公开介绍页，不是可运行模板。按用户请求和宿主规则使用这些说明。[English](ASSISTANT.md)
+This template is currently unavailable as a free public template. Check [MotionGit](https://motiongit.com/@curious-atlas/knowledge-explainer-isometric) for its current status and license.
 
-## 第一条回复
-
-说清模板名称、用途及官网地址：https://motiongit.com/@curious-atlas/knowledge-explainer-isometric。说明核对状态 **Demo 已公开 · 模板下载即将开放**（2026-10-13），承诺下载前重新查看官网。一次询问主题、语言和已备素材；注册或等待开放期间可以继续帮用户整理简报。
-
-## 尚未取得模板
-
-1. 从 [素材清单](README.zh-CN.md) 解释下方所列必需与可选素材，按实际输入槽位准备。
-2. 引导用户到这个模板的官网页面注册、登录，下载自己的 .motion。若显示即将开放，如实说明，先整理简报，不假装已取得模板，不绕过下载流程。
-3. GitHub 中只有介绍与 Demo，克隆仓库不能制作原动画。不要从 Demo 猜源码或自行重写模板，不编造运行命令。
-4. 不要求用户在公开 Issue 提交密码、Cookie、Key 或个人模板；让用户在私密助手工作区提供下载文件或本地路径。
-
-## 用户提供 .motion 后
-
-1. 先静态检查文件，识别真实格式与 profile，再读取所引用的清单、guide、README、参数、依赖和许可。个人交付外层按官方加载入口处理，不假定是普通作者 ZIP。
-2. 从下方环境摘要出发，以实际下载包的依赖锁为准检查工具；安装或联网前按宿主要求说明并取得授权。
-3. 根据实际参数合同映射用户素材，确认语言、输出画幅与缺少的输入。不用 Demo 悄悄代替真实素材，不承诺合同之外的数量、画幅或媒体槽位替换。
-4. 仅在实际包声明这些操作时走 setup → check-params → plan → prepare → preview → render。先审阅计划，再准备与预览，用户确认预览后导出。保持固定编舞和声音同步。
-5. 缺素材时提供自备、授权匹配或生图等选项；按实际素材槽位选用配套能力。查实时能力目录、报价与权限，付费生成或上传私有素材前取得用户授权。不把尚未开放的能力说成可用，不把免费模板等同于无限免费服务。
-6. 能运行本地工具时按包内入口制作；纯聊天助手交付简报、文案、素材清单和本地转交步骤，不声称已经渲染成片。
-
-## 模板资料
-
-### 素材
-
-- **必需:** Sourceedits：内容，最多 256 项。
-- **必需:** Voiceover：文字，不超过 240 个字符。
-- **必需:** Duration：数值。
-- **必需:** Map：内容，至少 2 项，最多 1000 项。
-- **必需:** Captions：内容，最多 256 项。
-
-### 环境
-
-- 模板声明使用 Python 和 Node.js。具体工具与版本以下载包为准。
-- 按下载包的依赖锁和 setup/check 说明检查已有工具，只补齐缺项，并验证预览。
-
-### 适配边界
-
-- 已声明输出为 1920 × 1080，60 fps；默认样片 19.614 秒。
-- 按实际包的参数边界制作；增加素材不会自动增加场景。
-
-### 配套能力
-
-- 配套服务需核对官网实时能力、模板槽位和账号权限后才能确认。：请按官网实时能力核对
-
-## 常用地址
-
-https://motiongit.com/@curious-atlas/knowledge-explainer-isometric
-https://motiongit.com/signup?next=%2F%40curious-atlas%2Fknowledge-explainer-isometric
-https://motiongit.com/use
-https://motiongit.com/api/v1/capabilities
+[.motion specification](https://motiongit.com/spec)
